@@ -1,0 +1,20 @@
+{
+  "name": "xltxlm/classinfo",
+  "authors": [
+    {
+      "name": "copygithub",
+      "email": "xltxlm@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "xltxlm\\classinfo\\": [
+        "src/",
+        "./"
+      ]
+    }
+  }
+}
