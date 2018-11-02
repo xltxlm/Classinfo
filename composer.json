@@ -6,6 +6,12 @@
       "email": "xltxlm@qq.com"
     }
   ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/xltxlm/Str.git"
+    }
+  ],
   "require": {
     "php": ">=7.1",
     "xltxlm/str": "@dev"
